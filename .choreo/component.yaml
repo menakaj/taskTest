@@ -1,1 +1,8 @@
 schemaVersion: 1.2
+
+
+dependencies:
+    connectionReferences:
+    - name: klkllklkl
+      resourceRef: service:/test-conn/travelbookingtest/v1/c95d2/PUBLIC
+      
