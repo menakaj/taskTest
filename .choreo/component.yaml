@@ -3,6 +3,6 @@ schemaVersion: 1.2
 
 dependencies:
     connectionReferences:
-    - name: klkllklkl
-      resourceRef: service:/test-conn/travelbookingtest/v1/c95d2/PUBLIC
+    - name: sfghrhr
+      resourceRef: service:/testnewsnippet/appoints/v1/5c69c/PUBLIC
       
