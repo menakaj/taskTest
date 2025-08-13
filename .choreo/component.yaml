@@ -3,6 +3,6 @@ schemaVersion: 1.2
 
 dependencies:
     connectionReferences:
-    - name: sfghrhr
-      resourceRef: service:/testnewsnippet/appoints/v1/5c69c/PUBLIC
+    - name: employee-connection
+      resourceRef: service:/appointment-management/hr-employee/v1/ad088/PUBLIC
       
